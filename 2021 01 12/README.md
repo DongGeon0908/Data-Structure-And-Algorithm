@@ -96,11 +96,11 @@ int a = rand.nextInt(10) + 1
 - 합성수
     + 약수의 개수가 3개 이상인 자연수
 
-- [소수 구하기1]()
+- [소수 구하기1](https://github.com/DongGeon0908/Data-Structure-And-Algorithm/blob/master/2021%2001%2012/src/primeNumber1.java)
     + for문을 통해 모든 조건 실행
 
-- [소수 구하기2]()
+- [소수 구하기2](https://github.com/DongGeon0908/Data-Structure-And-Algorithm/blob/master/2021%2001%2012/src/primeNumber2.java)
     + 구한 소수를 배열에 저장해서 계산수 줄이기
 
-- [소수 구하기]()
+- [소수 구하기](https://github.com/DongGeon0908/Data-Structure-And-Algorithm/blob/master/2021%2001%2012/src/primeNumber3.java)
     + n의 제곱근 이하의 어떤 소수로도 나누어 떨어지지 않는 조건 활용
