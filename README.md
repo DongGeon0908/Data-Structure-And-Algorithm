@@ -11,9 +11,7 @@
 <br>
 
 ### 📒Contents
-> [2021-01-05](https://github.com/DongGeon0908/Data-structure-Algorithms/tree/master/2021-01-05)
-
-> [2021-01-06](https://github.com/DongGeon0908/Data-structure-Algorithms/tree/master/2021-01-06)
+> [2021-01-12]()
 
 <br>
 
