@@ -49,7 +49,7 @@ for(String tmp : a){
 
         XYZ a = new XYZ();
         ```
-    + [클래스의 배열]()
+    + [클래스의 배열](https://github.com/DongGeon0908/Data-Structure-And-Algorithm/blob/master/2021%2001%2015/src/PhysicalExamination.java)
 
 - 클래스 본체와 멤버
     + 멤버
