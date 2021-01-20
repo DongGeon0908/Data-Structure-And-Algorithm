@@ -19,6 +19,8 @@
 
 > [2021-01-19](https://github.com/DongGeon0908/Data-Structure-And-Algorithm/tree/master/2021%2001%2019)
 
+> [2021-01-20](https://github.com/DongGeon0908/Data-Structure-And-Algorithm/tree/master/2021%2001%2020)
+
 
 <br>
 
