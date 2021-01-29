@@ -1,4 +1,4 @@
-# 📋Data-structure-Algorithms Study📋
+ # 📋Data-structure-Algorithms Study📋
 > 자료구조와 알고리즘 학습
 
 <br>
@@ -22,6 +22,8 @@
 > [2021-01-20](https://github.com/DongGeon0908/Data-Structure-And-Algorithm/tree/master/2021%2001%2020)
 
 > [2021-01-22](https://github.com/DongGeon0908/Data-Structure-And-Algorithm/tree/master/2021%2001%2022)
+
+> [2021-01-30](https://github.com/DongGeon0908/Data-Structure-And-Algorithm/tree/master/2021%2001%2030)
 
 <br>
 
