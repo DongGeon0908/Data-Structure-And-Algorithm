@@ -25,6 +25,8 @@
 
 > [2021-01-30](https://github.com/DongGeon0908/Data-Structure-And-Algorithm/tree/master/2021%2001%2030)
 
+> [2021-02-01](https://github.com/DongGeon0908/Data-Structure-And-Algorithm/tree/master/2021%2002%2001)
+
 <br>
 
 ### 🔧Environment
